@@ -132,3 +132,87 @@ body {
         margin-left: auto;
         margin-right: auto;
     }
+
+
+
+
+
+
+    .login{
+    background-color: #211b55;
+    text-align: center;
+    list-style: none;
+    color: aliceblue;
+    font-size: larger;
+}
+.signup{
+    background-color: #211b55;
+    text-align: center;
+    list-style: none;
+    color: aliceblue;
+    font-size: larger   ;
+}
+.log{
+    background-color: orange;
+    color: white;
+    border-radius: 30px;
+    width: 75px;
+    border: none;
+    height: 40px;
+    font-size: larger;
+    margin-left: 40px;
+}
+.log:hover{
+    background-color: black;
+    transition-delay: 5ms;
+}
+.sign{
+    background-color: orange;
+    color: white;
+    border-radius: 40px;
+    width: 120px;
+    border: none;
+    height: 70px;
+    font-size: larger;
+    margin-left: 40px;
+}
+
+.sign:hover{
+     background-color: black;
+    transition-delay: 5ms;
+}
+
+.contact{
+    background-color: #211b55;
+    text-align: center;
+    list-style: none;
+    color: aliceblue;
+    font-size: larger   ;
+}
+.message{
+    background-color: orange;
+    color: white;
+    border-radius: 40px;
+    width: 150px;
+    border: none;
+    height: 70px;
+    font-size: larger;
+    margin-left: 40px; 
+}
+.message:hover{
+    background-color: black;
+    transition-delay: 5ms;
+}
+
+.flex {
+    background-color: rgb(17, 16, 70);
+    max-width: 600px;
+    text-align: center;
+    margin-left: 150px;
+    padding: 20px;
+    border-radius: 20px;
+    color: aliceblue;
+}
+.link{
+    color: orangered;
+}
