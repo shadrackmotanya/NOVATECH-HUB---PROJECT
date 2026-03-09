@@ -25,4 +25,19 @@ The project demonstrates website structure, page navigation, styling with CSS, a
 
 ---
 
-## Project Structure
+
+---
+
+## Team Members
+- **Shadrack** – Home page, navigation, and base styling  
+- **Meshack** – Products page and About page  
+- **Abednego** – Login, Signup, and Contact pages  
+
+---
+
+## Purpose of the Project
+This project was developed as part of a web development assignment to practice building a multi-page website and working collaboratively using GitHub.
+
+---
+
+© 2026 NovaTech Hub
