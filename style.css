@@ -152,7 +152,9 @@ body {
     text-align: center;
     list-style: none;
     color: aliceblue;
-    font-size: larger   ;
+    font-size: larger;
+    border-radius: 20px;
+    paddind: 30px;
 }
 .log{
     background-color: orange;
@@ -189,7 +191,9 @@ body {
     text-align: center;
     list-style: none;
     color: aliceblue;
-    font-size: larger   ;
+    font-size: larger;
+    border-radius: 20px;
+    paddind: 30px;
 }
 .message{
     background-color: orange;
