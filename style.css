@@ -144,6 +144,8 @@ body {
     list-style: none;
     color: aliceblue;
     font-size: larger;
+    border-radius: 20px;
+    paddind: 30px;
 }
 .signup{
     background-color: #211b55;
