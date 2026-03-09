@@ -193,8 +193,8 @@ body {
     color: aliceblue;
     font-size: larger;
     border-radius: 20px;
-    paddind: 30px;
-}
+    padding: 20px;
+
 .message{
     background-color: orange;
     color: white;
